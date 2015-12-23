@@ -1,0 +1,24 @@
+{
+  "name": "highlevel",
+  "version": "0.0.0",
+  "description": "Leveldb query engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfraze/highlevel.git"
+  },
+  "keywords": [
+    "level",
+    "db",
+    "query"
+  ],
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pfraze/highlevel/issues"
+  },
+  "homepage": "https://github.com/pfraze/highlevel#readme"
+}
